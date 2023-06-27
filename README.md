@@ -70,3 +70,8 @@ step 3 :
 
   https://iqbalfn.github.io/bootstrap-image-checkbox/
 
+### Author : Mohammad Ammar Alrez
+
+LinkedIn : https://www.linkedin.com/in/ammaralrez/
+
+Facebook : https://www.facebook.com/ammar.alrez
