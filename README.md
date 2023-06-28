@@ -5,7 +5,7 @@
 
 1-To facilitate the process of using images in more than one place
 
-2-In addition to the presence of a gallery to choose images and support Java Query
+2-In addition to the presence of a gallery to choose images and support JQuery
 
 3-The images are compressed in a square shape
 
